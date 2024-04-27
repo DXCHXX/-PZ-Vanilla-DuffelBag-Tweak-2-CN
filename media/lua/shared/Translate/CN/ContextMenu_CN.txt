@@ -1,4 +1,0 @@
-ContextMenu_CN = {
-	ContextMenu_OnBack = "背部装备",
-	ContextMenu_LowerBack = "下背部装备",
-}
