@@ -1,9 +1,10 @@
 version=1
+id=3233509826
 title=Vanilla-DuffelBag-Tweak-2-CN
 description=Project Zomboid mod Vanilla DuffelBag Tweak 汉化
 description=
 description=本项目语言文本翻译使用大语言模型翻译。
 description=
 description=汉化mod地址订阅地址：https://steamcommunity.com/sharedfiles/filedetails/?id=2959854619
-tags=
+tags=Build 41;Language/Translation
 visibility=public
